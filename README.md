@@ -5,7 +5,7 @@ Full-Stack Developer
 --------------------  
 
 * 🌍  I'm based in Russia, but open for relocation opportunities 
-* 🖥️  See my portfolio at [github.com](http://github.com/helfi2012/CV/blob/main/CV.pdf)
+* 🖥️  See my CV at [github.com](http://github.com/helfi2012/CV/blob/main/CV.pdf)
 * ✉️  You can contact me at [kaiumov.iag@phystech.edu](mailto:kaiumov.iag@phystech.edu) 
 * 🚀  I'm currently working on [iOS application for Moscow Institute of Physics and Technology](http://apps.apple.com/ru/app/физтех/id1580960177) 
 * 🧠  I'm currently learning Django
