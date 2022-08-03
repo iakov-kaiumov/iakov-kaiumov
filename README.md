@@ -8,10 +8,13 @@ Full-Stack Developer
 * 🎓  Graduate of the Moscow Institute of Physics and Technology
 * 🖥️  See my CV at [github.com](http://github.com/helfi2012/CV/blob/main/CV.pdf)
 * ✉️  You can contact me at [kaiumov.iag@phystech.edu](mailto:kaiumov.iag@phystech.edu) 
-* 🚀  I'm currently working on multiple projects, including [iOS&Android application for Moscow Institute of Physics and Technology](http://apps.apple.com/ru/app/физтех/id1580960177), Django based telegram bots and others 
+* 🚀  I'm currently working on multiple projects, including 
+    * [iOS application](http://apps.apple.com/ru/app/физтех/id1580960177) for the Moscow Institute of Physics and Technology
+    * Django based telegram bots [(example)](https://t.me/rfrit_help_bot)
+    * Complex python-based web-scrappers 
 * 🧠  I'm currently sharpen my iOS skills
 * 🤝  I'm open to collaborating on SwiftUI Projects 
-* ⚡  I'm also a biophysicist
+* ⚡  I'm also a former biophysicist 🤷‍♂️
 
 ### Skills
 
