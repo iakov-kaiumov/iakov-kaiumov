@@ -12,7 +12,7 @@ Full-Stack Developer
     * [iOS application](http://apps.apple.com/ru/app/физтех/id1580960177) for the Moscow Institute of Physics and Technology
     * Django based telegram bots [(example)](https://t.me/rfrit_help_bot)
     * Complex python-based web-scrappers 
-* 🧠  I'm currently sharpen my iOS skills
+* 🧠  I'm currently sharpening my iOS skills
 * 🤝  I'm open to collaborating on SwiftUI Projects 
 * ⚡  I'm also a former biophysicist 🤷‍♂️
 
