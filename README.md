@@ -1,4 +1,4 @@
-Hi 👋 My name is Iakov Kaiumov 
+Hi 👋 My name is Yasha
 ==============================  
 
 Full-Stack Developer 
