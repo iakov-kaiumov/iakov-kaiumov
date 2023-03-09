@@ -13,7 +13,7 @@ Full-Stack Developer
     * Django based telegram bots [(check out production example)](https://t.me/rfrit_help_bot)
     * Complex python-based web-scrappers
     * Online marketplace: https://маркет.промыслы.рф
-* 🧠  I'm currently sharpening my iOS skills
+* 🧠  Check out my latest [SwiftUI article](https://medium.com/@yashahelfi2012/bugs-free-navigation-in-swiftui-7f84369bc933) on Medium
 * 🤝  I'm open to collaborating on SwiftUI Projects 
 * ⚡  I'm also a former biophysicist 🤷‍♂️
 
