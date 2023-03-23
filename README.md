@@ -4,7 +4,6 @@ Hi 👋 My name is Yasha
 Full-Stack Developer 
 --------------------  
 
-* 🌍  I'm based in Russia, but open for relocation opportunities 
 * 🎓  Graduate of the Moscow Institute of Physics and Technology
 * 🖥️  See my CV at [github.com](http://github.com/helfi2012/CV/blob/main/CV.pdf)
 * ✉️  You can contact me at [kaiumov.iag@phystech.edu](mailto:kaiumov.iag@phystech.edu) 
