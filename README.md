@@ -8,7 +8,7 @@ Full-Stack Developer
 * 🖥️  See my CV at [github.com](http://github.com/helfi2012/CV/blob/main/CV.pdf)
 * ✉️  You can contact me at [kaiumov.iag@phystech.edu](mailto:kaiumov.iag@phystech.edu) 
 * 🚀  I'm currently working on multiple projects, including 
-    * [iOS](http://apps.apple.com/ru/app/физтех/id1580960177) & Android applications for the Moscow Institute of Physics and Technology
+    * [iOS](http://apps.apple.com/ru/app/физтех/id1580960177) & [Android](https://mipt.phystech.dev) applications for the Moscow Institute of Physics and Technology
     * Django based telegram bots [(check out production example)](https://t.me/rfrit_help_bot)
     * Complex python-based web-scrappers
     * Online marketplace: https://маркет.промыслы.рф
